@@ -12,3 +12,6 @@ Aqui reunimos pratos deliciosos criados pela equipe DevCulinária.
 
 ## Receitas
 *(Esta seção será atualizada conforme novas receitas forem adicionadas.)*
+
+- [Pudim de Leite Condensado](sobremesas/pudim-de-leite.md)
+
