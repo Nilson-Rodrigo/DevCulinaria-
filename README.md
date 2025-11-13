@@ -9,7 +9,7 @@ Aqui, cada integrante da equipe contribui com receitas organizadas por categoria
 
 ## 👥 Equipe DevCulinária
 - Geovany de Oliveira Silva Batista (Owner)
-- [Nome dos outros integrantes]
+- 
 - [Nome dos outros integrantes]
 - [Nome dos outros integrantes]
 - [Nome dos outros integrantes]
