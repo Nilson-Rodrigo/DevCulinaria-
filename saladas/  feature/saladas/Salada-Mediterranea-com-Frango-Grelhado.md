@@ -1,9 +1,9 @@
-Salada Mediterrânea com Frango Grelhado
+# Salada Mediterrânea com Frango Grelhado
 
 Uma salada nutritiva, colorida e perfeita para qualquer refeição
 Ingredientes para a Salada:
 
-Base:
+## Base:
 
     1 alface americana ou romana lavada e picada
 
@@ -19,7 +19,7 @@ Base:
 
     1 abacate maduro em cubos
 
-Proteínas:
+## Proteínas:
 
     200g de peito de frango grelhado em tiras
 
@@ -27,7 +27,7 @@ Proteínas:
 
     100g de queijo feta em cubos
 
-Extras:
+## Extras:
 
     1/2 xícara de azeitonas pretas sem caroço
 
@@ -35,7 +35,7 @@ Extras:
 
     1/4 de xícara de nozes ou amêndoas laminadas
 
-Molho Mediterrâneo:
+## Molho Mediterrâneo:
 
     1/4 de xícara de azeite de oliva extravirgem
 
